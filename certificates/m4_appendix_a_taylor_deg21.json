@@ -1,0 +1,22 @@
+{
+  "schema_version": "DC-DELEG-CERT-1.0",
+  "cert_id": "m4_appendix_a_taylor_deg21",
+  "mode": "appendix_a_taylor_beta_cert",
+  "reference": "Abdi et al. (2026) App. A.6 tightened Taylor bracket deg 20/21",
+  "payload": {
+    "a": "67/100",
+    "b": "9/200",
+    "d": "9/50",
+    "Delta": "1/400",
+    "eps_margin": "1/1000000",
+    "L0": "15733850124938532977/32768000000000000000",
+    "taylor_odd_deg": 21,
+    "target_cap": "9621/20000",
+    "claimed_z": "143/200",
+    "claimed_beta_hi_lt_target": true,
+    "claimed_beta_hi_decimal_12": "0.481043999746",
+    "claimed_beta_lo_decimal_12": "0.481043999745",
+    "claimed_v_lo_plus_Delta_gt_1_plus_b": true,
+    "claimed_bracket_lo_pos": true
+  }
+}

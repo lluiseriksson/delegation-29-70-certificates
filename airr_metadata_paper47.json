@@ -1,0 +1,18 @@
+{
+  "title": "Certified Verification of Improved Downward-Closed Delegation Bounds",
+  "authors": ["Lluis Eriksson"],
+  "abstract": "Hamed Abdi, Kiarash Banihashem, MohammadTaghi Hajiaghayi, and Danny Mittal (arXiv:2611.33095, Nov 2026) improved the universal approximation guarantee for agent-oblivious downward-closed delegation from 0.1098 to > 29/70 (with a self-contained analytic 3/10 warm-up), while proving strict separation below the matroid optimum of 1/2 via a five-item knapsack (500/1011 deterministic, 5011/10110 randomized, 30/61 limiting) and a computer-assisted family below 9621/20000 = 0.48105. We present a standalone zero-dependency Lean 4.35.0 formalization of 18 core score, forced-item, Efron-Stein, Bernstein-polynomial, seed-reserve, and impossibility theorems (zero sorry, zero warnings, zero Classical.choice) paired with an exact-Q four-mode certificate verifier (DC-DELEG-CERT-1.0). Across 16 canonical certificates (0.185-2.611 ms, total 9.21 ms), all invariants replay identically over Q while rejecting 60/60 live adversarial forgery attacks.",
+  "category": "cs.GT",
+  "license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "repository_url": "https://github.com/lluiseriksson/delegation-29-70-certificates",
+  "release_tag": "v1.0.0",
+  "operator_conflict": true,
+  "ai_assistance_disclosure": "Prepared by sole author Lluis Eriksson with AI coding, formalization, and drafting assistance from Google Antigravity; all Lean 4.35.0 proofs, exact-Q certificates, and adversarial tests were independently compiled and machine-verified locally.",
+  "target_reference": {
+    "arxiv_id": "2611.33095",
+    "authors": ["Hamed Abdi", "Kiarash Banihashem", "MohammadTaghi Hajiaghayi", "Danny Mittal"],
+    "title": "Improved Downward-Closed Delegation Bounds",
+    "date": "2026-11-24"
+  }
+}

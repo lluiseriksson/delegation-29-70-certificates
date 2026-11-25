@@ -1,0 +1,24 @@
+{
+  "schema_version": "DC-DELEG-CERT-1.0",
+  "cert_id": "m1_knapsack5_prop33_eps_1_10000",
+  "mode": "knapsack5_impossibility_cert",
+  "reference": "Abdi et al. (2026) Prop. 3.3 limiting ceiling (eps=1/10000 -> 30/61)",
+  "payload": {
+    "jackpot_prob": "1/10000",
+    "jackpot_high_val": "90000",
+    "eta": "1/10000",
+    "claimed_offline_V": "101661/5000",
+    "claimed_rab_table": [
+      "5/4",
+      "9/2",
+      "3",
+      "9/2"
+    ],
+    "claimed_det_payoff_ub": "10",
+    "claimed_det_ratio_ub": "50000/101661",
+    "claimed_rand_case1_ub": "50001111/5000000",
+    "claimed_rand_case2_ub": "500007777/50000000",
+    "claimed_rand_payoff_ub": "50001111/5000000",
+    "claimed_rand_ratio_ub": "16667037/33887000"
+  }
+}

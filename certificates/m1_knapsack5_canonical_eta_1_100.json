@@ -1,0 +1,24 @@
+{
+  "schema_version": "DC-DELEG-CERT-1.0",
+  "cert_id": "m1_knapsack5_canonical_eta_1_100",
+  "mode": "knapsack5_impossibility_cert",
+  "reference": "Abdi et al. (2026) Prop. 3.1 & Thm. 3.2 (eps=1/100, eta=1/100)",
+  "payload": {
+    "jackpot_prob": "1/100",
+    "jackpot_high_val": "900",
+    "eta": "1/100",
+    "claimed_offline_V": "1011/50",
+    "claimed_rab_table": [
+      "5/4",
+      "9/2",
+      "3",
+      "9/2"
+    ],
+    "claimed_det_payoff_ub": "10",
+    "claimed_det_ratio_ub": "500/1011",
+    "claimed_rand_case1_ub": "5011/500",
+    "claimed_rand_case2_ub": "50077/5000",
+    "claimed_rand_payoff_ub": "5011/500",
+    "claimed_rand_ratio_ub": "5011/10110"
+  }
+}

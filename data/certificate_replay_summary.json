@@ -1,0 +1,220 @@
+{
+  "certificates": [
+    {
+      "cert_id": "m1_knapsack5_canonical_eta_1_100",
+      "mode": "knapsack5_impossibility_cert",
+      "verified": true,
+      "verify_ns": 443200,
+      "summary": {
+        "V": "1011/50",
+        "det_ratio_ub": "500/1011",
+        "rand_ratio_ub": "5011/10110",
+        "cert_id": "m1_knapsack5_canonical_eta_1_100",
+        "mode": "knapsack5_impossibility_cert"
+      }
+    },
+    {
+      "cert_id": "m1_knapsack5_tight_eta_1_1000",
+      "mode": "knapsack5_impossibility_cert",
+      "verified": true,
+      "verify_ns": 400300,
+      "summary": {
+        "V": "1011/50",
+        "det_ratio_ub": "500/1011",
+        "rand_ratio_ub": "50011/101100",
+        "cert_id": "m1_knapsack5_tight_eta_1_1000",
+        "mode": "knapsack5_impossibility_cert"
+      }
+    },
+    {
+      "cert_id": "m1_knapsack5_prop33_eps_1_1000",
+      "mode": "knapsack5_impossibility_cert",
+      "verified": true,
+      "verify_ns": 332600,
+      "summary": {
+        "V": "10161/500",
+        "det_ratio_ub": "5000/10161",
+        "rand_ratio_ub": "500111/1016100",
+        "cert_id": "m1_knapsack5_prop33_eps_1_1000",
+        "mode": "knapsack5_impossibility_cert"
+      }
+    },
+    {
+      "cert_id": "m1_knapsack5_prop33_eps_1_10000",
+      "mode": "knapsack5_impossibility_cert",
+      "verified": true,
+      "verify_ns": 336900,
+      "summary": {
+        "V": "101661/5000",
+        "det_ratio_ub": "50000/101661",
+        "rand_ratio_ub": "16667037/33887000",
+        "cert_id": "m1_knapsack5_prop33_eps_1_10000",
+        "mode": "knapsack5_impossibility_cert"
+      }
+    },
+    {
+      "cert_id": "m2_lemma44_bernstein_left_2_13_to_2_5",
+      "mode": "lemma44_bernstein_3_10_cert",
+      "verified": true,
+      "verify_ns": 667800,
+      "summary": {
+        "interval": "[2/13, 2/5]",
+        "min_beta": "447966/78125",
+        "cert_id": "m2_lemma44_bernstein_left_2_13_to_2_5",
+        "mode": "lemma44_bernstein_3_10_cert"
+      }
+    },
+    {
+      "cert_id": "m2_lemma44_bernstein_right_2_5_to_2_3",
+      "mode": "lemma44_bernstein_3_10_cert",
+      "verified": true,
+      "verify_ns": 603300,
+      "summary": {
+        "interval": "[2/5, 2/3]",
+        "min_beta": "6518/118125",
+        "cert_id": "m2_lemma44_bernstein_right_2_5_to_2_3",
+        "mode": "lemma44_bernstein_3_10_cert"
+      }
+    },
+    {
+      "cert_id": "m2_lemma44_bernstein_sub_2_13_to_1_4",
+      "mode": "lemma44_bernstein_3_10_cert",
+      "verified": true,
+      "verify_ns": 877400,
+      "summary": {
+        "interval": "[2/13, 1/4]",
+        "min_beta": "249075/8192",
+        "cert_id": "m2_lemma44_bernstein_sub_2_13_to_1_4",
+        "mode": "lemma44_bernstein_3_10_cert"
+      }
+    },
+    {
+      "cert_id": "m2_lemma44_bernstein_sub_1_2_to_2_3",
+      "mode": "lemma44_bernstein_3_10_cert",
+      "verified": true,
+      "verify_ns": 722600,
+      "summary": {
+        "interval": "[1/2, 2/3]",
+        "min_beta": "141/32",
+        "cert_id": "m2_lemma44_bernstein_sub_1_2_to_2_3",
+        "mode": "lemma44_bernstein_3_10_cert"
+      }
+    },
+    {
+      "cert_id": "m3_alg2_total_threshold_knap3",
+      "mode": "capped_menu_score_cert",
+      "verified": true,
+      "verify_ns": 511700,
+      "summary": {
+        "body_type": "total_threshold",
+        "V": "11/3",
+        "expected_score": "8/3",
+        "ratio": "8/11",
+        "beats_29_70": true,
+        "cert_id": "m3_alg2_total_threshold_knap3",
+        "mode": "capped_menu_score_cert"
+      }
+    },
+    {
+      "cert_id": "m3_alg2_seeds_upper_knap3",
+      "mode": "capped_menu_score_cert",
+      "verified": true,
+      "verify_ns": 547500,
+      "summary": {
+        "body_type": "seeds_upper",
+        "V": "11/3",
+        "expected_score": "3",
+        "ratio": "9/11",
+        "beats_29_70": true,
+        "cert_id": "m3_alg2_seeds_upper_knap3",
+        "mode": "capped_menu_score_cert"
+      }
+    },
+    {
+      "cert_id": "m3_alg2_seeds_reserve_knap4",
+      "mode": "capped_menu_score_cert",
+      "verified": true,
+      "verify_ns": 2610700,
+      "summary": {
+        "body_type": "seeds_reserve",
+        "V": "4",
+        "expected_score": "49/16",
+        "ratio": "49/64",
+        "beats_29_70": true,
+        "cert_id": "m3_alg2_seeds_reserve_knap4",
+        "mode": "capped_menu_score_cert"
+      }
+    },
+    {
+      "cert_id": "m3_lemma22_safe_singleton_norm",
+      "mode": "capped_menu_score_cert",
+      "verified": true,
+      "verify_ns": 276200,
+      "summary": {
+        "body_type": "total_threshold",
+        "V": "9/4",
+        "expected_score": "2",
+        "ratio": "8/9",
+        "beats_29_70": true,
+        "cert_id": "m3_lemma22_safe_singleton_norm",
+        "mode": "capped_menu_score_cert"
+      }
+    },
+    {
+      "cert_id": "m4_appendix_a_taylor_deg11",
+      "mode": "appendix_a_taylor_beta_cert",
+      "verified": true,
+      "verify_ns": 185200,
+      "summary": {
+        "taylor_odd_deg": 11,
+        "beta_lo_12": "0.481043999500",
+        "beta_hi_12": "0.481043999995",
+        "strictly_below_target": true,
+        "cert_id": "m4_appendix_a_taylor_deg11",
+        "mode": "appendix_a_taylor_beta_cert"
+      }
+    },
+    {
+      "cert_id": "m4_appendix_a_taylor_deg15",
+      "mode": "appendix_a_taylor_beta_cert",
+      "verified": true,
+      "verify_ns": 210500,
+      "summary": {
+        "taylor_odd_deg": 15,
+        "beta_lo_12": "0.481043999745",
+        "beta_hi_12": "0.481043999746",
+        "strictly_below_target": true,
+        "cert_id": "m4_appendix_a_taylor_deg15",
+        "mode": "appendix_a_taylor_beta_cert"
+      }
+    },
+    {
+      "cert_id": "m4_appendix_a_taylor_deg19_paper",
+      "mode": "appendix_a_taylor_beta_cert",
+      "verified": true,
+      "verify_ns": 238600,
+      "summary": {
+        "taylor_odd_deg": 19,
+        "beta_lo_12": "0.481043999745",
+        "beta_hi_12": "0.481043999746",
+        "strictly_below_target": true,
+        "cert_id": "m4_appendix_a_taylor_deg19_paper",
+        "mode": "appendix_a_taylor_beta_cert"
+      }
+    },
+    {
+      "cert_id": "m4_appendix_a_taylor_deg21",
+      "mode": "appendix_a_taylor_beta_cert",
+      "verified": true,
+      "verify_ns": 248800,
+      "summary": {
+        "taylor_odd_deg": 21,
+        "beta_lo_12": "0.481043999745",
+        "beta_hi_12": "0.481043999746",
+        "strictly_below_target": true,
+        "cert_id": "m4_appendix_a_taylor_deg21",
+        "mode": "appendix_a_taylor_beta_cert"
+      }
+    }
+  ]
+}

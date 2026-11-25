@@ -1,0 +1,20 @@
+import DownwardDelegation
+
+#print axioms DownwardDelegation.universal_bounds_hierarchy
+#print axioms DownwardDelegation.knapsack5_offline_optimum_exact
+#print axioms DownwardDelegation.knapsack5_agent_strict_ranking
+#print axioms DownwardDelegation.knapsack5_det_upper_bound_exact
+#print axioms DownwardDelegation.knapsack5_rand_case_bounds
+#print axioms DownwardDelegation.knapsack5_rand_asymptotic_30_61
+#print axioms DownwardDelegation.menu_score_payoff_bound
+#print axioms DownwardDelegation.forced_item_pointwise_decomposition
+#print axioms DownwardDelegation.threshold_tail_bound_monotone
+#print axioms DownwardDelegation.efron_stein_step_bound
+#print axioms DownwardDelegation.cantelli_mean_cap_lt_5
+#print axioms DownwardDelegation.lemma44_case1_gamma_pos
+#print axioms DownwardDelegation.lemma44_exp_taylor7_bound
+#print axioms DownwardDelegation.lemma44_bernstein_poly_eval_endpoints
+#print axioms DownwardDelegation.seed_reserve_margin_positive
+#print axioms DownwardDelegation.capped_menu_rescale_equivariance
+#print axioms DownwardDelegation.main_theorem_ratio_recip_exact
+#print axioms DownwardDelegation.appendix_a_beta_strict_bound

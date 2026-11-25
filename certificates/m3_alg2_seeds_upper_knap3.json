@@ -1,0 +1,82 @@
+{
+  "schema_version": "DC-DELEG-CERT-1.0",
+  "cert_id": "m3_alg2_seeds_upper_knap3",
+  "mode": "capped_menu_score_cert",
+  "reference": "Abdi et al. (2026) Alg. 2 seeds + upper-threshold menu",
+  "payload": {
+    "num_items": 3,
+    "feasible_sets": [
+      [],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "item_laws": [
+      [
+        {
+          "val": "0",
+          "prob": "1/2"
+        },
+        {
+          "val": "2",
+          "prob": "1/2"
+        }
+      ],
+      [
+        {
+          "val": "0",
+          "prob": "1/2"
+        },
+        {
+          "val": "3",
+          "prob": "1/2"
+        }
+      ],
+      [
+        {
+          "val": "0",
+          "prob": "2/3"
+        },
+        {
+          "val": "5",
+          "prob": "1/3"
+        }
+      ]
+    ],
+    "cap_c": "2",
+    "singleton_cutoffs": [
+      "4",
+      "3",
+      "4"
+    ],
+    "singleton_open_flags": [
+      true,
+      false,
+      false
+    ],
+    "body_type": "seeds_upper",
+    "level_t": "3",
+    "upper_u": "4",
+    "reserve_a": null,
+    "is_safe_singleton_normalized": false,
+    "claimed_V": "11/3",
+    "claimed_expected_score": "3",
+    "claimed_ratio": "9/11",
+    "claimed_beats_29_70": true,
+    "claimed_min_seed_reserve_b": "1"
+  }
+}

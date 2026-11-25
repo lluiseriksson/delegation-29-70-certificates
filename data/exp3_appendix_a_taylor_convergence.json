@@ -1,0 +1,52 @@
+{
+  "rows": [
+    {
+      "taylor_odd_deg": 7,
+      "beta_lo_12": "0.481036562073",
+      "beta_hi_12": "0.481051545207",
+      "beats_048105": false
+    },
+    {
+      "taylor_odd_deg": 9,
+      "beta_lo_12": "0.481043946949",
+      "beta_hi_12": "0.481044053336",
+      "beats_048105": true
+    },
+    {
+      "taylor_odd_deg": 11,
+      "beta_lo_12": "0.481043999500",
+      "beta_hi_12": "0.481043999995",
+      "beats_048105": true
+    },
+    {
+      "taylor_odd_deg": 13,
+      "beta_lo_12": "0.481043999745",
+      "beta_hi_12": "0.481043999747",
+      "beats_048105": true
+    },
+    {
+      "taylor_odd_deg": 15,
+      "beta_lo_12": "0.481043999745",
+      "beta_hi_12": "0.481043999746",
+      "beats_048105": true
+    },
+    {
+      "taylor_odd_deg": 17,
+      "beta_lo_12": "0.481043999745",
+      "beta_hi_12": "0.481043999746",
+      "beats_048105": true
+    },
+    {
+      "taylor_odd_deg": 19,
+      "beta_lo_12": "0.481043999745",
+      "beta_hi_12": "0.481043999746",
+      "beats_048105": true
+    },
+    {
+      "taylor_odd_deg": 21,
+      "beta_lo_12": "0.481043999745",
+      "beta_hi_12": "0.481043999746",
+      "beats_048105": true
+    }
+  ]
+}

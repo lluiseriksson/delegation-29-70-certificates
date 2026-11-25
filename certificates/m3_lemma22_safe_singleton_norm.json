@@ -1,0 +1,74 @@
+{
+  "schema_version": "DC-DELEG-CERT-1.0",
+  "cert_id": "m3_lemma22_safe_singleton_norm",
+  "mode": "capped_menu_score_cert",
+  "reference": "Abdi et al. (2026) Lemma 2.2 safe-singleton normalized instance",
+  "payload": {
+    "num_items": 3,
+    "feasible_sets": [
+      [],
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "item_laws": [
+      [
+        {
+          "val": "1",
+          "prob": "1"
+        }
+      ],
+      [
+        {
+          "val": "0",
+          "prob": "1/2"
+        },
+        {
+          "val": "2",
+          "prob": "1/2"
+        }
+      ],
+      [
+        {
+          "val": "0",
+          "prob": "1/2"
+        },
+        {
+          "val": "2",
+          "prob": "1/2"
+        }
+      ]
+    ],
+    "cap_c": "3/2",
+    "singleton_cutoffs": [
+      "2",
+      "3/2",
+      "3/2"
+    ],
+    "singleton_open_flags": [
+      false,
+      false,
+      false
+    ],
+    "body_type": "total_threshold",
+    "level_t": "2",
+    "upper_u": null,
+    "reserve_a": null,
+    "is_safe_singleton_normalized": true,
+    "claimed_V": "9/4",
+    "claimed_expected_score": "2",
+    "claimed_ratio": "8/9",
+    "claimed_beats_29_70": true,
+    "claimed_min_seed_reserve_b": "1/2"
+  }
+}

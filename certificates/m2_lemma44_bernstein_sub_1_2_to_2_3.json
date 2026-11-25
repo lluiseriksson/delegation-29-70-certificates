@@ -1,0 +1,25 @@
+{
+  "schema_version": "DC-DELEG-CERT-1.0",
+  "cert_id": "m2_lemma44_bernstein_sub_1_2_to_2_3",
+  "mode": "lemma44_bernstein_3_10_cert",
+  "reference": "Abdi et al. (2026) Lemma 4.4 refined subinterval [1/2, 2/3]",
+  "payload": {
+    "interval_left": "1/2",
+    "interval_right": "2/3",
+    "mu_cantelli_test": "7",
+    "claimed_cantelli_lhs": "49/26",
+    "claimed_case1_gamma_lb": "168034/70785",
+    "claimed_exp_taylor7_gap": "3772963/234881024",
+    "claimed_bernstein_coeffs": [
+      "141/32",
+      "2983/448",
+      "6991/672",
+      "23623/1512",
+      "62822/2835",
+      "606071/20412",
+      "385085/10206",
+      "33250/729"
+    ],
+    "claimed_min_beta": "141/32"
+  }
+}

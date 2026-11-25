@@ -1,0 +1,25 @@
+{
+  "schema_version": "DC-DELEG-CERT-1.0",
+  "cert_id": "m2_lemma44_bernstein_left_2_13_to_2_5",
+  "mode": "lemma44_bernstein_3_10_cert",
+  "reference": "Abdi et al. (2026) Lemma 4.4 Bernstein cert on [2/13, 2/5]",
+  "payload": {
+    "interval_left": "2/13",
+    "interval_right": "2/5",
+    "mu_cantelli_test": "5",
+    "claimed_cantelli_lhs": "25/22",
+    "claimed_case1_gamma_lb": "168034/70785",
+    "claimed_exp_taylor7_gap": "3772963/234881024",
+    "claimed_bernstein_coeffs": [
+      "1986088350/62748517",
+      "1261274730/33787663",
+      "2352485202/64976275",
+      "3848793434/124954375",
+      "86356098/3696875",
+      "5006162/316875",
+      "13662546/1421875",
+      "447966/78125"
+    ],
+    "claimed_min_beta": "447966/78125"
+  }
+}
